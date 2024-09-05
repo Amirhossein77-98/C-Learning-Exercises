@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\bin\Debug\net8.0\Chap3Que29 - Number Guessing Game.exe
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\bin\Debug\net8.0\Chap3Que29 - Number Guessing Game.deps.json
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\bin\Debug\net8.0\Chap3Que29 - Number Guessing Game.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\bin\Debug\net8.0\Chap3Que29 - Number Guessing Game.dll
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\bin\Debug\net8.0\Chap3Que29 - Number Guessing Game.pdb
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.dll
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\refint\Chap3Que29 - Number Guessing Game.dll
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.pdb
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\Chap3Que29 - Number Guessing Game.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\ChapQue29 - Number Guessing Game\obj\Debug\net8.0\ref\Chap3Que29 - Number Guessing Game.dll

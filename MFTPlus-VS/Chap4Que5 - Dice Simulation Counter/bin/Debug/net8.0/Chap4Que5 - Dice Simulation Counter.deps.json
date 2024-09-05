@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap4Que5 - Dice Simulation Counter/1.0.0": {
+        "runtime": {
+          "Chap4Que5 - Dice Simulation Counter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap4Que5 - Dice Simulation Counter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

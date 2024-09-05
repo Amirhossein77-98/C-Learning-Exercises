@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\bin\Debug\net8.0\Chap3Que22 - Anagram Printer.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\bin\Debug\net8.0\Chap3Que22 - Anagram Printer.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\bin\Debug\net8.0\Chap3Que22 - Anagram Printer.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\bin\Debug\net8.0\Chap3Que22 - Anagram Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\bin\Debug\net8.0\Chap3Que22 - Anagram Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\refint\Chap3Que22 - Anagram Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\Chap3Que22 - Anagram Printer.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que22 - Anagram Printer\obj\Debug\net8.0\ref\Chap3Que22 - Anagram Printer.dll

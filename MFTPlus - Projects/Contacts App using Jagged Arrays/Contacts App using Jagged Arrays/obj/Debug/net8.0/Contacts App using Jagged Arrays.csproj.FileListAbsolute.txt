@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\bin\Debug\net8.0\Contacts App using Jagged Arrays.exe
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\bin\Debug\net8.0\Contacts App using Jagged Arrays.deps.json
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\bin\Debug\net8.0\Contacts App using Jagged Arrays.runtimeconfig.json
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\bin\Debug\net8.0\Contacts App using Jagged Arrays.dll
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\bin\Debug\net8.0\Contacts App using Jagged Arrays.pdb
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.dll
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\refint\Contacts App using Jagged Arrays.dll
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.pdb
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\Contacts App using Jagged Arrays.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus - Projects\Contacts App using Jagged Arrays\Contacts App using Jagged Arrays\obj\Debug\net8.0\ref\Contacts App using Jagged Arrays.dll

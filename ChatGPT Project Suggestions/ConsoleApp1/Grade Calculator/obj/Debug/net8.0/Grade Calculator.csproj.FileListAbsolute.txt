@@ -1,0 +1,14 @@
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\bin\Debug\net8.0\Grade Calculator.exe
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\bin\Debug\net8.0\Grade Calculator.deps.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\bin\Debug\net8.0\Grade Calculator.runtimeconfig.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\bin\Debug\net8.0\Grade Calculator.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\bin\Debug\net8.0\Grade Calculator.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfoInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfo.cs
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.csproj.CoreCompileInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\refint\Grade Calculator.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\Grade Calculator.genruntimeconfig.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Grade Calculator\obj\Debug\net8.0\ref\Grade Calculator.dll

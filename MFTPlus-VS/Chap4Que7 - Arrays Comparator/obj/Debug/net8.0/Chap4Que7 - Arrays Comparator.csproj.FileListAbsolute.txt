@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\bin\Debug\net8.0\Chap4Que7 - Arrays Comparator.exe
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\bin\Debug\net8.0\Chap4Que7 - Arrays Comparator.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\bin\Debug\net8.0\Chap4Que7 - Arrays Comparator.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\bin\Debug\net8.0\Chap4Que7 - Arrays Comparator.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\bin\Debug\net8.0\Chap4Que7 - Arrays Comparator.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\refint\Chap4Que7 - Arrays Comparator.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\Chap4Que7 - Arrays Comparator.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que7 - Arrays Comparator\obj\Debug\net8.0\ref\Chap4Que7 - Arrays Comparator.dll

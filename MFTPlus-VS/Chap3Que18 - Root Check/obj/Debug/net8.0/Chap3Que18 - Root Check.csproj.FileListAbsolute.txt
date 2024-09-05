@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\bin\Debug\net8.0\Chap3Que18 - Root Check.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\bin\Debug\net8.0\Chap3Que18 - Root Check.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\bin\Debug\net8.0\Chap3Que18 - Root Check.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\bin\Debug\net8.0\Chap3Que18 - Root Check.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\bin\Debug\net8.0\Chap3Que18 - Root Check.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\refint\Chap3Que18 - Root Check.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\Chap3Que18 - Root Check.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que18 - Root Check\obj\Debug\net8.0\ref\Chap3Que18 - Root Check.dll

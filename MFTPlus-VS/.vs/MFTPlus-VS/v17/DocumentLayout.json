@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Codes\\C#\\MFTPlus-VS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DD3028-1F6B-44F3-9027-8E13A998C5C8}|Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.csproj|g:\\codes\\c#\\mftplus-vs\\chap5que30 - longest distance between two prime numbers finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DD3028-1F6B-44F3-9027-8E13A998C5C8}|Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.csproj|solutionrelative:chap5que30 - longest distance between two prime numbers finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus-VS\\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\\Program.cs",
+              "RelativeDocumentMoniker": "Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\\Program.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus-VS\\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\\Program.cs",
+              "RelativeToolTip": "Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:21:05.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

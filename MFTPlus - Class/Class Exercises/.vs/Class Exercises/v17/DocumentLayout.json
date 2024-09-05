@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Codes\\C#\\MFTPlus - Class\\Class Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E24A1B-6E2F-4F3E-A50E-23A98EDF3C50}|Calculator\\Calculator.csproj|g:\\codes\\c#\\mftplus - class\\class exercises\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E24A1B-6E2F-4F3E-A50E-23A98EDF3C50}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FFAB4-20EC-474D-BA84-99BEC3B70562}|Class Exercises\\Class Exercises.csproj|g:\\codes\\c#\\mftplus - class\\class exercises\\class exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FFAB4-20EC-474D-BA84-99BEC3B70562}|Class Exercises\\Class Exercises.csproj|solutionrelative:class exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Class\\Class Exercises\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Class\\Class Exercises\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:28:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Class\\Class Exercises\\Class Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "Class Exercises\\Program.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Class\\Class Exercises\\Class Exercises\\Program.cs",
+              "RelativeToolTip": "Class Exercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:14:23.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

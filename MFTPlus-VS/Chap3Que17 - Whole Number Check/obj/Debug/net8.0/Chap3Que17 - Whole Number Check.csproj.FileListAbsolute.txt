@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\bin\Debug\net8.0\Chap3Que17 - Whole Number Check.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\bin\Debug\net8.0\Chap3Que17 - Whole Number Check.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\bin\Debug\net8.0\Chap3Que17 - Whole Number Check.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\bin\Debug\net8.0\Chap3Que17 - Whole Number Check.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\bin\Debug\net8.0\Chap3Que17 - Whole Number Check.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\refint\Chap3Que17 - Whole Number Check.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\Chap3Que17 - Whole Number Check.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que17 - Whole Number Check\obj\Debug\net8.0\ref\Chap3Que17 - Whole Number Check.dll

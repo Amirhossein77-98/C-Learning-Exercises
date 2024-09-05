@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap4Que1 - Reverse Even Array Members Printer/1.0.0": {
+        "runtime": {
+          "Chap4Que1 - Reverse Even Array Members Printer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap4Que1 - Reverse Even Array Members Printer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

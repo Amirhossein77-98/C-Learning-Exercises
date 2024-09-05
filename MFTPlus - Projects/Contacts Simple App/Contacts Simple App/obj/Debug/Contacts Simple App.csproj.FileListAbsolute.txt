@@ -1,0 +1,12 @@
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\bin\Debug\Contacts Simple App.exe.config
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\bin\Debug\Contacts Simple App.exe
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\bin\Debug\Contacts Simple App.pdb
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts Simple App.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts_Simple_App.Form1.resources
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts_Simple_App.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts Simple App.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts Simple App.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts Simple App.exe
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts Simple App.pdb
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\bin\Debug\Contacts Info.accdb
+G:\Codes\C#\MFTPlus - Projects\Contacts Simple App\Contacts Simple App\obj\Debug\Contacts_Simple_App.AddNewContactWindow.resources

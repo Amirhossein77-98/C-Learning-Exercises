@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\bin\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\bin\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\bin\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\bin\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\bin\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\refint\Chap3Que24 - Three Digit Palindrome.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\Chap3Que24 - Three Digit Palindrome.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que24 - Three Digit Palindrome\obj\Debug\net8.0\ref\Chap3Que24 - Three Digit Palindrome.dll

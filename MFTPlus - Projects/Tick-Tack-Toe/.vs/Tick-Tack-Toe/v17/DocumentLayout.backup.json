@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A1F10E-4C9E-430E-BF27-B2BA2E04448E}|Tick-Tack-Toe\\Tick-Tack-Toe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\tick-tack-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A1F10E-4C9E-430E-BF27-B2BA2E04448E}|Tick-Tack-Toe\\Tick-Tack-Toe.csproj|solutionrelative:tick-tack-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A1F10E-4C9E-430E-BF27-B2BA2E04448E}|Tick-Tack-Toe\\Tick-Tack-Toe.csproj|g:\\codes\\c#\\mftplus - projects\\tick-tack-toe\\tick-tack-toe\\tick-tack-toe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6A1F10E-4C9E-430E-BF27-B2BA2E04448E}|Tick-Tack-Toe\\Tick-Tack-Toe.csproj|solutionrelative:tick-tack-toe\\tick-tack-toe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A1F10E-4C9E-430E-BF27-B2BA2E04448E}|Tick-Tack-Toe\\Tick-Tack-Toe.csproj|g:\\codes\\c#\\mftplus - projects\\tick-tack-toe\\tick-tack-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A1F10E-4C9E-430E-BF27-B2BA2E04448E}|Tick-Tack-Toe\\Tick-Tack-Toe.csproj|solutionrelative:tick-tack-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tick-Tack-Toe.csproj",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\Tick-Tack-Toe\\Tick-Tack-Toe.csproj",
+              "RelativeDocumentMoniker": "Tick-Tack-Toe\\Tick-Tack-Toe.csproj",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\Tick-Tack-Toe\\Tick-Tack-Toe.csproj",
+              "RelativeToolTip": "Tick-Tack-Toe\\Tick-Tack-Toe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T16:18:56.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design - Afar (Djibouti)]",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\Tick-Tack-Toe\\Form1.cs",
+              "RelativeDocumentMoniker": "Tick-Tack-Toe\\Form1.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\Tick-Tack-Toe\\Form1.cs [Design - Afar (Djibouti)]",
+              "RelativeToolTip": "Tick-Tack-Toe\\Form1.cs [Design - Afar (Djibouti)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:50:26.186Z",
+              "EditorCaption": " [Design - Afar (Djibouti)]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\Tick-Tack-Toe\\Form1.cs",
+              "RelativeDocumentMoniker": "Tick-Tack-Toe\\Form1.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\Tick-Tack-Toe\\Tick-Tack-Toe\\Form1.cs",
+              "RelativeToolTip": "Tick-Tack-Toe\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:26:35.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

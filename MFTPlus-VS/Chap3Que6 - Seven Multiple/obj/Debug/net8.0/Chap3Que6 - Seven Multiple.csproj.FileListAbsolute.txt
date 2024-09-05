@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\bin\Debug\net8.0\Chap3Que6 - Seven Multiple.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\bin\Debug\net8.0\Chap3Que6 - Seven Multiple.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\bin\Debug\net8.0\Chap3Que6 - Seven Multiple.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\bin\Debug\net8.0\Chap3Que6 - Seven Multiple.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\bin\Debug\net8.0\Chap3Que6 - Seven Multiple.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\refint\Chap3Que6 - Seven Multiple.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\Chap3Que6 - Seven Multiple.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que6 - Seven Multiple\obj\Debug\net8.0\ref\Chap3Que6 - Seven Multiple.dll

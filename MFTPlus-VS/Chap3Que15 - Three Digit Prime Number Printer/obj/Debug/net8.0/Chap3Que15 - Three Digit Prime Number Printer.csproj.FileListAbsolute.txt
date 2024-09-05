@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\bin\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\bin\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\bin\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\bin\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\bin\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\refint\Chap3Que15 - Three Digit Prime Number Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\Chap3Que15 - Three Digit Prime Number Printer.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que15 - Three Digit Prime Number Printer\obj\Debug\net8.0\ref\Chap3Que15 - Three Digit Prime Number Printer.dll

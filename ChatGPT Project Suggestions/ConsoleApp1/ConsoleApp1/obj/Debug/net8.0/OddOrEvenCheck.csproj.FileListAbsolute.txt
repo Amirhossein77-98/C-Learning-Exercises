@@ -1,0 +1,14 @@
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OddOrEvenCheck.exe
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OddOrEvenCheck.deps.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OddOrEvenCheck.runtimeconfig.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OddOrEvenCheck.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OddOrEvenCheck.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.AssemblyInfoInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.AssemblyInfo.cs
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.csproj.CoreCompileInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\OddOrEvenCheck.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OddOrEvenCheck.genruntimeconfig.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\OddOrEvenCheck.dll

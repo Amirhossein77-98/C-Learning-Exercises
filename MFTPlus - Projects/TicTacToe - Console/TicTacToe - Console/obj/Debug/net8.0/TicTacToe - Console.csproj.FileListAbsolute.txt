@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\bin\Debug\net8.0\TicTacToe - Console.exe
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\bin\Debug\net8.0\TicTacToe - Console.deps.json
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\bin\Debug\net8.0\TicTacToe - Console.runtimeconfig.json
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\bin\Debug\net8.0\TicTacToe - Console.dll
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\bin\Debug\net8.0\TicTacToe - Console.pdb
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.dll
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\refint\TicTacToe - Console.dll
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.pdb
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\TicTacToe - Console.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus - Projects\TicTacToe - Console\TicTacToe - Console\obj\Debug\net8.0\ref\TicTacToe - Console.dll

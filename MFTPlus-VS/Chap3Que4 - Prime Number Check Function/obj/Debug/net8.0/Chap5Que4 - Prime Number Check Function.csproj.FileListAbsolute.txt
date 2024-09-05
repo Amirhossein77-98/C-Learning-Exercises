@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\bin\Debug\net8.0\Chap5Que4 - Prime Number Check Function.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\bin\Debug\net8.0\Chap5Que4 - Prime Number Check Function.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\bin\Debug\net8.0\Chap5Que4 - Prime Number Check Function.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\bin\Debug\net8.0\Chap5Que4 - Prime Number Check Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\bin\Debug\net8.0\Chap5Que4 - Prime Number Check Function.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\refint\Chap5Que4 - Prime Number Check Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\Chap5Que4 - Prime Number Check Function.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Prime Number Check Function\obj\Debug\net8.0\ref\Chap5Que4 - Prime Number Check Function.dll

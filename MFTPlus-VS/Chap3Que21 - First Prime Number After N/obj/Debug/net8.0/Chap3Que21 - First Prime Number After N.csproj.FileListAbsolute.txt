@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\bin\Debug\net8.0\Chap3Que21 - First Prime Number After N.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\bin\Debug\net8.0\Chap3Que21 - First Prime Number After N.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\bin\Debug\net8.0\Chap3Que21 - First Prime Number After N.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\bin\Debug\net8.0\Chap3Que21 - First Prime Number After N.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\bin\Debug\net8.0\Chap3Que21 - First Prime Number After N.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\refint\Chap3Que21 - First Prime Number After N.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\Chap3Que21 - First Prime Number After N.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que21 - First Prime Number After N\obj\Debug\net8.0\ref\Chap3Que21 - First Prime Number After N.dll

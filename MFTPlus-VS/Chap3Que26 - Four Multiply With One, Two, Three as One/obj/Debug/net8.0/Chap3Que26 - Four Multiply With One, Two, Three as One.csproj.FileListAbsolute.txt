@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\bin\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\bin\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\bin\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\bin\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\bin\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\refint\Chap3Que26 - Four Multiply With One, Two, Three as One.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\Chap3Que26 - Four Multiply With One, Two, Three as One.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que26 - Four Multiply With One, Two, Three as One\obj\Debug\net8.0\ref\Chap3Que26 - Four Multiply With One, Two, Three as One.dll

@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\bin\Debug\net8.0\Chap3Que8 - Five Zero Terminator.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\bin\Debug\net8.0\Chap3Que8 - Five Zero Terminator.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\bin\Debug\net8.0\Chap3Que8 - Five Zero Terminator.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\bin\Debug\net8.0\Chap3Que8 - Five Zero Terminator.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\bin\Debug\net8.0\Chap3Que8 - Five Zero Terminator.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\refint\Chap3Que8 - Five Zero Terminator.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\Chap3Que8 - Five Zero Terminator.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que8 - Five Zero Terminator\obj\Debug\net8.0\ref\Chap3Que8 - Five Zero Terminator.dll

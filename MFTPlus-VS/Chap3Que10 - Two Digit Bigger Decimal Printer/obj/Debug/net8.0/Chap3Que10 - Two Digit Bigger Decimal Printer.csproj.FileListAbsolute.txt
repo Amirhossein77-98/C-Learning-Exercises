@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\bin\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\bin\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\bin\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\bin\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\bin\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\refint\Chap3Que10 - Two Digit Bigger Decimal Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\Chap3Que10 - Two Digit Bigger Decimal Printer.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que10 - Two Digit Bigger Decimal Printer\obj\Debug\net8.0\ref\Chap3Que10 - Two Digit Bigger Decimal Printer.dll

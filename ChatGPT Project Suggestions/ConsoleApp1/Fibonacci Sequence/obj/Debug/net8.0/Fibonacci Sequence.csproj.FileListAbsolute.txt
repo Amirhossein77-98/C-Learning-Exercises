@@ -1,0 +1,14 @@
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\bin\Debug\net8.0\Fibonacci Sequence.exe
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\bin\Debug\net8.0\Fibonacci Sequence.deps.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\bin\Debug\net8.0\Fibonacci Sequence.runtimeconfig.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\bin\Debug\net8.0\Fibonacci Sequence.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\bin\Debug\net8.0\Fibonacci Sequence.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.AssemblyInfoInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.AssemblyInfo.cs
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\refint\Fibonacci Sequence.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\Fibonacci Sequence.genruntimeconfig.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Fibonacci Sequence\obj\Debug\net8.0\ref\Fibonacci Sequence.dll

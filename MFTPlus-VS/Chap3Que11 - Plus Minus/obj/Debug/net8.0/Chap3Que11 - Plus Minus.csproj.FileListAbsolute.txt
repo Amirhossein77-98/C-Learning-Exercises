@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\bin\Debug\net8.0\Chap3Que11 - Plus Minus.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\bin\Debug\net8.0\Chap3Que11 - Plus Minus.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\bin\Debug\net8.0\Chap3Que11 - Plus Minus.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\bin\Debug\net8.0\Chap3Que11 - Plus Minus.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\bin\Debug\net8.0\Chap3Que11 - Plus Minus.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\refint\Chap3Que11 - Plus Minus.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\Chap3Que11 - Plus Minus.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que11 - Plus Minus\obj\Debug\net8.0\ref\Chap3Que11 - Plus Minus.dll

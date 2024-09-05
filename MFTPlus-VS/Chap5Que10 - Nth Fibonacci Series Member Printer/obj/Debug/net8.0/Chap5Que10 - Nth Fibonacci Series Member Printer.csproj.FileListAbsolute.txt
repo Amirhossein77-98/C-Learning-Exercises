@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\bin\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.exe
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\bin\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\bin\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\bin\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\bin\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\refint\Chap5Que10 - Nth Fibonacci Series Member Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\Chap5Que10 - Nth Fibonacci Series Member Printer.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que10 - Nth Fibonacci Series Member Printer\obj\Debug\net8.0\ref\Chap5Que10 - Nth Fibonacci Series Member Printer.dll

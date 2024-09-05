@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\bin\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\bin\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\bin\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\bin\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\bin\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\refint\Chap3Que9 - First Four Even Numbers Three Multiply Counter.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\Chap3Que9 - First Four Even Numbers Three Multiply Counter.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que9 - First Four Even Numbers Three Multiply Counter\obj\Debug\net8.0\ref\Chap3Que9 - First Four Even Numbers Three Multiply Counter.dll

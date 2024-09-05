@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\bin\Debug\net8.0\Chap3Que4 - Three Number Adder.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\bin\Debug\net8.0\Chap3Que4 - Three Number Adder.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\bin\Debug\net8.0\Chap3Que4 - Three Number Adder.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\bin\Debug\net8.0\Chap3Que4 - Three Number Adder.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\bin\Debug\net8.0\Chap3Que4 - Three Number Adder.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\refint\Chap3Que4 - Three Number Adder.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\Chap3Que4 - Three Number Adder.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que4 - Three Number Adder\obj\Debug\net8.0\ref\Chap3Que4 - Three Number Adder.dll

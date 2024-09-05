@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\bin\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.exe
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\bin\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\bin\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\bin\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\bin\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\refint\Chap5Que7 - First Prime Number After N Printer.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\Chap5Que7 - First Prime Number After N Printer.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que7 - First Prime Number After N Printer\obj\Debug\net8.0\ref\Chap5Que7 - First Prime Number After N Printer.dll

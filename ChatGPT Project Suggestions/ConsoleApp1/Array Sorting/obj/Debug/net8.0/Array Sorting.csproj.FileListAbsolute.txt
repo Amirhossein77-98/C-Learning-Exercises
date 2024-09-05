@@ -1,0 +1,14 @@
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\bin\Debug\net8.0\Array Sorting.exe
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\bin\Debug\net8.0\Array Sorting.deps.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\bin\Debug\net8.0\Array Sorting.runtimeconfig.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\bin\Debug\net8.0\Array Sorting.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\bin\Debug\net8.0\Array Sorting.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.AssemblyInfoInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.AssemblyInfo.cs
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.csproj.CoreCompileInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\refint\Array Sorting.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\Array Sorting.genruntimeconfig.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Sorting\obj\Debug\net8.0\ref\Array Sorting.dll

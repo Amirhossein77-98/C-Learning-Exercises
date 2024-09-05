@@ -1,0 +1,14 @@
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\bin\Debug\net8.0\Leap Year Checker.exe
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\bin\Debug\net8.0\Leap Year Checker.deps.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\bin\Debug\net8.0\Leap Year Checker.runtimeconfig.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\bin\Debug\net8.0\Leap Year Checker.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\bin\Debug\net8.0\Leap Year Checker.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.AssemblyInfoInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.AssemblyInfo.cs
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.csproj.CoreCompileInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\refint\Leap Year Checker.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\Leap Year Checker.genruntimeconfig.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Leap Year Checker\obj\Debug\net8.0\ref\Leap Year Checker.dll

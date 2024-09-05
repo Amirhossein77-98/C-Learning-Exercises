@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\bin\Debug\net8.0\Chap3Que28 - Dollar Breaker.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\bin\Debug\net8.0\Chap3Que28 - Dollar Breaker.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\bin\Debug\net8.0\Chap3Que28 - Dollar Breaker.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\bin\Debug\net8.0\Chap3Que28 - Dollar Breaker.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\bin\Debug\net8.0\Chap3Que28 - Dollar Breaker.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\refint\Chap3Que28 - Dollar Breaker.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\Chap3Que28 - Dollar Breaker.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que28 - Dollar Breaker\obj\Debug\net8.0\ref\Chap3Que28 - Dollar Breaker.dll

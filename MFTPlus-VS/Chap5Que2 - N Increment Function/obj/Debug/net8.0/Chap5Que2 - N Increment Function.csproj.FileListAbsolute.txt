@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\bin\Debug\net8.0\Chap5Que2 - N Increment Function.exe
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\bin\Debug\net8.0\Chap5Que2 - N Increment Function.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\bin\Debug\net8.0\Chap5Que2 - N Increment Function.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\bin\Debug\net8.0\Chap5Que2 - N Increment Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\bin\Debug\net8.0\Chap5Que2 - N Increment Function.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\refint\Chap5Que2 - N Increment Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\Chap5Que2 - N Increment Function.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que2 - N Increment Function\obj\Debug\net8.0\ref\Chap5Que2 - N Increment Function.dll

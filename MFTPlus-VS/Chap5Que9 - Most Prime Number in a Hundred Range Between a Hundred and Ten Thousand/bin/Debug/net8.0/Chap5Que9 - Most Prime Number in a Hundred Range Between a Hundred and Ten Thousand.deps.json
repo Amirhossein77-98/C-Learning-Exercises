@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap5Que9 - Most Prime Number in a Hundred Range Between a Hundred and Ten Thousand/1.0.0": {
+        "runtime": {
+          "Chap5Que9 - Most Prime Number in a Hundred Range Between a Hundred and Ten Thousand.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap5Que9 - Most Prime Number in a Hundred Range Between a Hundred and Ten Thousand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

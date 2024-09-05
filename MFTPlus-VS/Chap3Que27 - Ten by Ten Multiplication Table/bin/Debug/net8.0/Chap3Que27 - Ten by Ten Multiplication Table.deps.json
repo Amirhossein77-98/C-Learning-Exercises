@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap3Que27 - Ten by Ten Multiplication Table/1.0.0": {
+        "runtime": {
+          "Chap3Que27 - Ten by Ten Multiplication Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap3Que27 - Ten by Ten Multiplication Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

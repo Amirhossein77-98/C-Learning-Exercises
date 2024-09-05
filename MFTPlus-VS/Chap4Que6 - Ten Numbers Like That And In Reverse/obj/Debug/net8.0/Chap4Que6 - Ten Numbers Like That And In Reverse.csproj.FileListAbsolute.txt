@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\bin\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.exe
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\bin\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\bin\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\bin\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\bin\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\refint\Chap4Que6 - Ten Numbers Like That And In Reverse.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\Chap4Que6 - Ten Numbers Like That And In Reverse.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que6 - Ten Numbers Like That And In Reverse\obj\Debug\net8.0\ref\Chap4Que6 - Ten Numbers Like That And In Reverse.dll

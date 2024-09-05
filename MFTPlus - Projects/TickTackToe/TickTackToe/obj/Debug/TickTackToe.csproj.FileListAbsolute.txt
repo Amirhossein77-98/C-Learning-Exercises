@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe.config
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.pdb
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.exe
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.pdb
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.TicTacToe.resources
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe.manifest
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.application
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.exe.manifest
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.application

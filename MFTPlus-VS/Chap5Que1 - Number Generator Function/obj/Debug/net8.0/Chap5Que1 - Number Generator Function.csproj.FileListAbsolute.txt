@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\bin\Debug\net8.0\Chap5Que1 - Number Generator Function.exe
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\bin\Debug\net8.0\Chap5Que1 - Number Generator Function.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\bin\Debug\net8.0\Chap5Que1 - Number Generator Function.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\bin\Debug\net8.0\Chap5Que1 - Number Generator Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\bin\Debug\net8.0\Chap5Que1 - Number Generator Function.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\refint\Chap5Que1 - Number Generator Function.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\Chap5Que1 - Number Generator Function.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que1 - Number Generator Function\obj\Debug\net8.0\ref\Chap5Que1 - Number Generator Function.dll

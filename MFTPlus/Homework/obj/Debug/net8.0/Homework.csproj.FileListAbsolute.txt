@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus\Homework\bin\Debug\net8.0\Homework.exe
+G:\Codes\C#\MFTPlus\Homework\bin\Debug\net8.0\Homework.deps.json
+G:\Codes\C#\MFTPlus\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+G:\Codes\C#\MFTPlus\Homework\bin\Debug\net8.0\Homework.dll
+G:\Codes\C#\MFTPlus\Homework\bin\Debug\net8.0\Homework.pdb
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.dll
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\refint\Homework.dll
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.pdb
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus\Homework\obj\Debug\net8.0\ref\Homework.dll

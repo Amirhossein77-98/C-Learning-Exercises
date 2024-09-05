@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\bin\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\bin\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\bin\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\bin\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\bin\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\refint\Chap3Que19 - nth Fibonacci Member.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\Chap3Que19 - nth Fibonacci Member.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que19 - nth Fibonacci Member\obj\Debug\net8.0\ref\Chap3Que19 - nth Fibonacci Member.dll

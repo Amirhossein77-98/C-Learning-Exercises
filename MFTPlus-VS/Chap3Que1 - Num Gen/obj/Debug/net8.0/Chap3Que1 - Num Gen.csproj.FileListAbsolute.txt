@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\bin\Debug\net8.0\Chap3Que1 - Num Gen.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\bin\Debug\net8.0\Chap3Que1 - Num Gen.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\bin\Debug\net8.0\Chap3Que1 - Num Gen.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\bin\Debug\net8.0\Chap3Que1 - Num Gen.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\bin\Debug\net8.0\Chap3Que1 - Num Gen.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\refint\Chap3Que1 - Num Gen.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\Chap3Que1 - Num Gen.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que1 - Num Gen\obj\Debug\net8.0\ref\Chap3Que1 - Num Gen.dll

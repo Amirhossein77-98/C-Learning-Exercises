@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\bin\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.exe
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\bin\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\bin\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\bin\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\bin\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\refint\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.dll
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.pdb
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder\obj\Debug\net8.0\ref\Chap5Que30 - Longest Distance Between Two Prime Numbers Finder.dll

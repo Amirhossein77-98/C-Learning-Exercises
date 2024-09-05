@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\bin\Debug\net8.0\Chap3Que20 - Second Student GPA.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\bin\Debug\net8.0\Chap3Que20 - Second Student GPA.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\bin\Debug\net8.0\Chap3Que20 - Second Student GPA.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\bin\Debug\net8.0\Chap3Que20 - Second Student GPA.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\bin\Debug\net8.0\Chap3Que20 - Second Student GPA.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\refint\Chap3Que20 - Second Student GPA.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\Chap3Que20 - Second Student GPA.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que20 - Second Student GPA\obj\Debug\net8.0\ref\Chap3Que20 - Second Student GPA.dll

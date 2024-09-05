@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap5Que4 - Prime Number Check Function/1.0.0": {
+        "runtime": {
+          "Chap5Que4 - Prime Number Check Function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap5Que4 - Prime Number Check Function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\bin\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\bin\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\bin\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\bin\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\bin\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\refint\Chap3Que7 - Incremental Sequence Generator.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\Chap3Que7 - Incremental Sequence Generator.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que7 - Incremental Sequence Generator\obj\Debug\net8.0\ref\Chap3Que7 - Incremental Sequence Generator.dll

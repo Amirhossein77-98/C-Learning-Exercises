@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus\session1\bin\Debug\net8.0\session1.exe
+G:\Codes\C#\MFTPlus\session1\bin\Debug\net8.0\session1.deps.json
+G:\Codes\C#\MFTPlus\session1\bin\Debug\net8.0\session1.runtimeconfig.json
+G:\Codes\C#\MFTPlus\session1\bin\Debug\net8.0\session1.dll
+G:\Codes\C#\MFTPlus\session1\bin\Debug\net8.0\session1.pdb
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.dll
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\refint\session1.dll
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.pdb
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\session1.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus\session1\obj\Debug\net8.0\ref\session1.dll

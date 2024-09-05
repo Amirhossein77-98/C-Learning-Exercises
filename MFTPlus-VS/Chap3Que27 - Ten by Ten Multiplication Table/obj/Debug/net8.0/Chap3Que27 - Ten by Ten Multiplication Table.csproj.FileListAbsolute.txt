@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\bin\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\bin\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\bin\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\bin\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\bin\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\refint\Chap3Que27 - Ten by Ten Multiplication Table.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\Chap3Que27 - Ten by Ten Multiplication Table.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que27 - Ten by Ten Multiplication Table\obj\Debug\net8.0\ref\Chap3Que27 - Ten by Ten Multiplication Table.dll

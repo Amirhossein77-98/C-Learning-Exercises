@@ -1,0 +1,14 @@
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\bin\Debug\net8.0\Array Reversal.exe
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\bin\Debug\net8.0\Array Reversal.deps.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\bin\Debug\net8.0\Array Reversal.runtimeconfig.json
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\bin\Debug\net8.0\Array Reversal.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\bin\Debug\net8.0\Array Reversal.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.AssemblyInfoInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.AssemblyInfo.cs
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.csproj.CoreCompileInputs.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\refint\Array Reversal.dll
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.pdb
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\Array Reversal.genruntimeconfig.cache
+G:\Codes\C#\ChatGPT Project Suggestions\ConsoleApp1\Array Reversal\obj\Debug\net8.0\ref\Array Reversal.dll

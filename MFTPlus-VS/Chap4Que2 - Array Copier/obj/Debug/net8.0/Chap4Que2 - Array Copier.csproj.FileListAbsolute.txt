@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\bin\Debug\net8.0\Chap4Que2 - Array Copier.exe
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\bin\Debug\net8.0\Chap4Que2 - Array Copier.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\bin\Debug\net8.0\Chap4Que2 - Array Copier.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\bin\Debug\net8.0\Chap4Que2 - Array Copier.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\bin\Debug\net8.0\Chap4Que2 - Array Copier.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\refint\Chap4Que2 - Array Copier.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\Chap4Que2 - Array Copier.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que2 - Array Copier\obj\Debug\net8.0\ref\Chap4Que2 - Array Copier.dll

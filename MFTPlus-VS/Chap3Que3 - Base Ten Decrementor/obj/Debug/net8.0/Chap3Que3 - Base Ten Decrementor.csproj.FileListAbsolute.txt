@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\bin\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\bin\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\bin\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\bin\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\bin\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\refint\Chap3Que3 - Base Ten Decrementor.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\Chap3Que3 - Base Ten Decrementor.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que3 - Base Ten Decrementor\obj\Debug\net8.0\ref\Chap3Que3 - Base Ten Decrementor.dll

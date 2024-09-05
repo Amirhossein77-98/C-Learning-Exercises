@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\bin\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.exe
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\bin\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\bin\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\bin\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\bin\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\refint\Chap4Que8 - Save Prime Numbers Before N In Array.dll
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.pdb
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\Chap4Que8 - Save Prime Numbers Before N In Array.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap4Que8 - Save Prime Numbers Before N In Array\obj\Debug\net8.0\ref\Chap4Que8 - Save Prime Numbers Before N In Array.dll

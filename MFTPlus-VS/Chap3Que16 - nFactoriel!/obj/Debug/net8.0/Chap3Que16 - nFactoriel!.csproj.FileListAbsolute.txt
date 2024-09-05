@@ -1,0 +1,14 @@
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\bin\Debug\net8.0\Chap3Que16 - nFactoriel!.exe
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\bin\Debug\net8.0\Chap3Que16 - nFactoriel!.deps.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\bin\Debug\net8.0\Chap3Que16 - nFactoriel!.runtimeconfig.json
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\bin\Debug\net8.0\Chap3Que16 - nFactoriel!.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\bin\Debug\net8.0\Chap3Que16 - nFactoriel!.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\refint\Chap3Que16 - nFactoriel!.dll
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.pdb
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\Chap3Que16 - nFactoriel!.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus-VS\Chap3Que16 - nFactoriel!\obj\Debug\net8.0\ref\Chap3Que16 - nFactoriel!.dll

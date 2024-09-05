@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap5Que2 - N Increment Function/1.0.0": {
+        "runtime": {
+          "Chap5Que2 - N Increment Function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap5Que2 - N Increment Function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
