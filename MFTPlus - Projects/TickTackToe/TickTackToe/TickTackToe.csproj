@@ -80,10 +80,24 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GameModeMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameModeMessageBox.Designer.cs">
+      <DependentUpon>GameModeMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Checkers.cs" />
+    <Compile Include="Models\CPUActionLogic.cs" />
+    <Compile Include="Models\GameStats.cs" />
+    <Compile Include="Models\ResetBoard.cs" />
+    <Compile Include="Models\UserActionLogic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameModeMessageBox.resx">
+      <DependentUpon>GameModeMessageBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -1,0 +1,10 @@
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\bin\Debug\Curiousity.exe.config
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\bin\Debug\Curiousity.exe
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\bin\Debug\Curiousity.pdb
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.Form1.resources
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.exe
+G:\Codes\C#\MFTPlus - Class\Curiousity\Curiousity\obj\Debug\Curiousity.pdb

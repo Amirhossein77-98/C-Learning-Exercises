@@ -47,6 +47,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.roundsCount = new System.Windows.Forms.Label();
             this.AboutLink = new System.Windows.Forms.LinkLabel();
+            this.GameModeButton = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // button1
@@ -61,7 +62,7 @@
             this.button1.Size = new System.Drawing.Size(220, 220);
             this.button1.TabIndex = 0;
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button_Click);
+            this.button1.Click += new System.EventHandler(this.player_click);
             // 
             // button2
             // 
@@ -75,7 +76,7 @@
             this.button2.Size = new System.Drawing.Size(220, 220);
             this.button2.TabIndex = 0;
             this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button_Click);
+            this.button2.Click += new System.EventHandler(this.player_click);
             // 
             // button3
             // 
@@ -89,7 +90,7 @@
             this.button3.Size = new System.Drawing.Size(220, 220);
             this.button3.TabIndex = 0;
             this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button_Click);
+            this.button3.Click += new System.EventHandler(this.player_click);
             // 
             // button4
             // 
@@ -103,7 +104,7 @@
             this.button4.Size = new System.Drawing.Size(220, 220);
             this.button4.TabIndex = 0;
             this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button_Click);
+            this.button4.Click += new System.EventHandler(this.player_click);
             // 
             // button5
             // 
@@ -117,7 +118,7 @@
             this.button5.Size = new System.Drawing.Size(220, 220);
             this.button5.TabIndex = 0;
             this.button5.UseVisualStyleBackColor = false;
-            this.button5.Click += new System.EventHandler(this.button_Click);
+            this.button5.Click += new System.EventHandler(this.player_click);
             // 
             // button6
             // 
@@ -131,7 +132,7 @@
             this.button6.Size = new System.Drawing.Size(220, 220);
             this.button6.TabIndex = 0;
             this.button6.UseVisualStyleBackColor = false;
-            this.button6.Click += new System.EventHandler(this.button_Click);
+            this.button6.Click += new System.EventHandler(this.player_click);
             // 
             // button7
             // 
@@ -145,7 +146,7 @@
             this.button7.Size = new System.Drawing.Size(220, 220);
             this.button7.TabIndex = 0;
             this.button7.UseVisualStyleBackColor = false;
-            this.button7.Click += new System.EventHandler(this.button_Click);
+            this.button7.Click += new System.EventHandler(this.player_click);
             // 
             // button8
             // 
@@ -159,7 +160,7 @@
             this.button8.Size = new System.Drawing.Size(220, 220);
             this.button8.TabIndex = 0;
             this.button8.UseVisualStyleBackColor = false;
-            this.button8.Click += new System.EventHandler(this.button_Click);
+            this.button8.Click += new System.EventHandler(this.player_click);
             // 
             // button9
             // 
@@ -173,7 +174,7 @@
             this.button9.Size = new System.Drawing.Size(220, 220);
             this.button9.TabIndex = 0;
             this.button9.UseVisualStyleBackColor = false;
-            this.button9.Click += new System.EventHandler(this.button_Click);
+            this.button9.Click += new System.EventHandler(this.player_click);
             // 
             // button10
             // 
@@ -286,13 +287,30 @@
             this.AboutLink.VisitedLinkColor = System.Drawing.Color.DarkTurquoise;
             this.AboutLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.showAboutDialog);
             // 
+            // GameModeButton
+            // 
+            this.GameModeButton.ActiveLinkColor = System.Drawing.Color.Cyan;
+            this.GameModeButton.AutoSize = true;
+            this.GameModeButton.BackColor = System.Drawing.Color.Transparent;
+            this.GameModeButton.LinkBehavior = System.Windows.Forms.LinkBehavior.NeverUnderline;
+            this.GameModeButton.LinkColor = System.Drawing.Color.Cyan;
+            this.GameModeButton.Location = new System.Drawing.Point(12, 915);
+            this.GameModeButton.Name = "GameModeButton";
+            this.GameModeButton.Size = new System.Drawing.Size(97, 20);
+            this.GameModeButton.TabIndex = 10;
+            this.GameModeButton.TabStop = true;
+            this.GameModeButton.Text = "Game Mode";
+            this.GameModeButton.VisitedLinkColor = System.Drawing.Color.DarkTurquoise;
+            this.GameModeButton.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.GameModeButton_LinkClicked);
+            // 
             // TicTacToe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(778, 944);
+            this.Controls.Add(this.GameModeButton);
             this.Controls.Add(this.AboutLink);
             this.Controls.Add(this.roundsCount);
             this.Controls.Add(this.label4);
@@ -320,6 +338,7 @@
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tic-Tac-Toe";
+            this.Activated += new System.EventHandler(this.TicTacToe_Activated);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -345,6 +364,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label roundsCount;
         private System.Windows.Forms.LinkLabel AboutLink;
+        private System.Windows.Forms.LinkLabel GameModeButton;
     }
 }
 

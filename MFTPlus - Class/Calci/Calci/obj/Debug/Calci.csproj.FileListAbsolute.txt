@@ -1,0 +1,10 @@
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\bin\Debug\Calci.exe.config
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\bin\Debug\Calci.exe
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\bin\Debug\Calci.pdb
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.Form1.resources
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.exe
+G:\Codes\C#\MFTPlus - Class\Calci\Calci\obj\Debug\Calci.pdb

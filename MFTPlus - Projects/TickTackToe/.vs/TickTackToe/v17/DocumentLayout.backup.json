@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|g:\\codes\\c#\\mftplus - projects\\ticktacktoe\\ticktacktoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\models\\cpuactionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\models\\cpuactionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\models\\useractionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\models\\useractionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|g:\\codes\\c#\\mftplus - projects\\ticktacktoe\\ticktacktoe\\models\\checkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\models\\checkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|g:\\codes\\c#\\mftplus - projects\\ticktacktoe\\ticktacktoe\\gamemodemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\gamemodemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\models\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\models\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\models\\resetboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\models\\resetboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\ticktacktoe\\gamemodemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B636DAB5-584A-43C9-920C-208A367BAE3B}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\gamemodemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Form1.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Form1.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Form1.cs",
+              "RelativeToolTip": "TickTackToe\\Form1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:41:51.631Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -29,20 +70,139 @@
               "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Form1.cs [Design]",
               "RelativeToolTip": "TickTackToe\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:39:22.828Z",
+              "WhenOpened": "2024-09-11T12:01:14.787Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "10d62ba6-3ff4-4717-8d13-26ecf9b8649c",
+        "Display": 2,
+        "X": 199,
+        "Y": 0,
+        "Width": 1172,
+        "Height": 725,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModeMessageBox.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\GameModeMessageBox.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\GameModeMessageBox.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\GameModeMessageBox.cs",
+              "RelativeToolTip": "TickTackToe\\GameModeMessageBox.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:14:44.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Form1.cs",
-              "RelativeDocumentMoniker": "TickTackToe\\Form1.cs",
-              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Form1.cs",
-              "RelativeToolTip": "TickTackToe\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GameModeMessageBox.cs [Design]",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\GameModeMessageBox.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\GameModeMessageBox.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\GameModeMessageBox.cs [Design]",
+              "RelativeToolTip": "TickTackToe\\GameModeMessageBox.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:44:22.703Z",
+              "WhenOpened": "2024-09-11T12:00:32.593Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e51f8814-8ae3-4d75-8b97-4aaf0df474ab",
+        "Display": 1,
+        "X": 931,
+        "Y": 7,
+        "Width": 985,
+        "Height": 775,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\GameStats.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Models\\GameStats.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\GameStats.cs",
+              "RelativeToolTip": "TickTackToe\\Models\\GameStats.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:31:13.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkers.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\Checkers.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Models\\Checkers.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\Checkers.cs",
+              "RelativeToolTip": "TickTackToe\\Models\\Checkers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:36:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CPUActionLogic.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\CPUActionLogic.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Models\\CPUActionLogic.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\CPUActionLogic.cs",
+              "RelativeToolTip": "TickTackToe\\Models\\CPUActionLogic.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:16:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserActionLogic.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\UserActionLogic.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Models\\UserActionLogic.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\UserActionLogic.cs",
+              "RelativeToolTip": "TickTackToe\\Models\\UserActionLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:16:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetBoard.cs",
+              "DocumentMoniker": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\ResetBoard.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Models\\ResetBoard.cs",
+              "ToolTip": "G:\\Codes\\C#\\MFTPlus - Projects\\TickTackToe\\TickTackToe\\Models\\ResetBoard.cs",
+              "RelativeToolTip": "TickTackToe\\Models\\ResetBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:32:23.487Z",
               "EditorCaption": ""
             }
           ]

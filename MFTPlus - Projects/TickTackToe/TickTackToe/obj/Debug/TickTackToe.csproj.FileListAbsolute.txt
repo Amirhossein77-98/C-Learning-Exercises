@@ -12,3 +12,4 @@ G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe
 G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\bin\Debug\TickTackToe.application
 G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.exe.manifest
 G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.application
+G:\Codes\C#\MFTPlus - Projects\TickTackToe\TickTackToe\obj\Debug\TickTackToe.GameModeMessageBox.resources
