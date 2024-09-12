@@ -60,9 +60,10 @@ namespace TickTackToe
             // Skipping the CPU turn if all the buttons are selected
             if (buttons.Count <= 0) { return; }
 
+            Button isWinning = winPossibilityCheck(getButtonsList());
             // Running the corresponding Logic
-            if (gameMode == Convert.ToInt32(GameMode.UserVsCpu)) { await CPUActionLogic.run(currentPlayer); }
-            if (gameMode == Convert.ToInt32(GameMode.CpuVsCpu)) { await CPUActionLogic.run(currentPlayer); }
+            if (gameMode == Convert.ToInt32(GameMode.UserVsCpu)) { await CPUActionLogic.run(currentPlayer, isWinning); }
+            if (gameMode == Convert.ToInt32(GameMode.CpuVsCpu)) { await CPUActionLogic.run(currentPlayer, isWinning); }
 
 
             // Checking if there is a winner or the game is draw
@@ -92,7 +93,7 @@ namespace TickTackToe
 
 
         // Handling About Dialog Button Clicked
-        private void showAboutDialog(object sender, LinkLabelLinkClickedEventArgs e)
+        private void showAboutDialog(object sender, EventArgs e)
         {
             string about = $"Credits:\n\nCreator: {creator}\nGmail: {creatorGmail}\nGithub: {creatorGithub}\n.Net Version: {dotNetVersion}";
             MessageBox.Show(about);
@@ -104,7 +105,7 @@ namespace TickTackToe
             return new List<Button> { button1, button2, button3, button4, button5, button6, button7, button8, button9 };
         }
 
-        private void GameModeButton_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void GameModeButton_Clicked(object sender, EventArgs e)
         {
             GameModeMessageBox.GameModeSelectionWindow();
         }
@@ -129,13 +130,21 @@ namespace TickTackToe
             }
         }
 
-        private async void autoClicker()
+        private async Task autoClicker()
         {
             while (true)
             {
-                button1.PerformClick();
+                foreach (Button button in buttons)
+                {
+                    button.PerformClick();
+                }
                 await Task.Delay(1000);
             }
+        }
+
+        private async void TicTacToe_Shown(object sender, EventArgs e)
+        {
+            if (gameMode == Convert.ToInt32(GameMode.CpuVsCpu)) autoClicker();
         }
     }
 }

@@ -46,8 +46,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.roundsCount = new System.Windows.Forms.Label();
-            this.AboutLink = new System.Windows.Forms.LinkLabel();
-            this.GameModeButton = new System.Windows.Forms.LinkLabel();
+            this.GameModeButton = new System.Windows.Forms.Button();
+            this.AboutLink = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -178,7 +178,7 @@
             // 
             // button10
             // 
-            this.button10.BackColor = System.Drawing.Color.Transparent;
+            this.button10.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.button10.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button10.FlatAppearance.BorderSize = 0;
             this.button10.FlatStyle = System.Windows.Forms.FlatStyle.System;
@@ -194,33 +194,35 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Google Sans", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft PhagsPa", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Chartreuse;
-            this.label1.Location = new System.Drawing.Point(47, 85);
+            this.label1.Location = new System.Drawing.Point(55, 105);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(150, 35);
+            this.label1.Size = new System.Drawing.Size(153, 28);
             this.label1.TabIndex = 2;
-            this.label1.Text = "User Wins: ";
+            this.label1.Text = "Player 1 Wins: ";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Google Sans", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft PhagsPa", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Red;
-            this.label2.Location = new System.Drawing.Point(587, 86);
+            this.label2.Location = new System.Drawing.Point(557, 106);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(119, 35);
+            this.label2.Size = new System.Drawing.Size(153, 28);
             this.label2.TabIndex = 3;
-            this.label2.Text = "AI Wins: ";
+            this.label2.Text = "Player 2 Wins: ";
             // 
             // userWinCount
             // 
             this.userWinCount.AutoSize = true;
-            this.userWinCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.userWinCount.BackColor = System.Drawing.Color.Transparent;
+            this.userWinCount.Font = new System.Drawing.Font("Microsoft PhagsPa", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.userWinCount.ForeColor = System.Drawing.Color.LimeGreen;
-            this.userWinCount.Location = new System.Drawing.Point(185, 85);
+            this.userWinCount.Location = new System.Drawing.Point(198, 105);
             this.userWinCount.Name = "userWinCount";
-            this.userWinCount.Size = new System.Drawing.Size(32, 36);
+            this.userWinCount.Size = new System.Drawing.Size(24, 28);
             this.userWinCount.TabIndex = 4;
             this.userWinCount.Text = "0";
             // 
@@ -228,11 +230,11 @@
             // 
             this.cpuWinCount.AutoSize = true;
             this.cpuWinCount.BackColor = System.Drawing.Color.Transparent;
-            this.cpuWinCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cpuWinCount.Font = new System.Drawing.Font("Microsoft PhagsPa", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cpuWinCount.ForeColor = System.Drawing.Color.Crimson;
-            this.cpuWinCount.Location = new System.Drawing.Point(693, 85);
+            this.cpuWinCount.Location = new System.Drawing.Point(702, 106);
             this.cpuWinCount.Name = "cpuWinCount";
-            this.cpuWinCount.Size = new System.Drawing.Size(32, 36);
+            this.cpuWinCount.Size = new System.Drawing.Size(24, 28);
             this.cpuWinCount.TabIndex = 5;
             this.cpuWinCount.Text = "0";
             // 
@@ -242,7 +244,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(259, 9);
+            this.label3.Location = new System.Drawing.Point(270, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(227, 54);
             this.label3.TabIndex = 6;
@@ -251,11 +253,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft PhagsPa", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label4.Location = new System.Drawing.Point(319, 83);
+            this.label4.Location = new System.Drawing.Point(336, 105);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(128, 36);
+            this.label4.Size = new System.Drawing.Size(89, 28);
             this.label4.TabIndex = 7;
             this.label4.Text = "Rounds:";
             // 
@@ -263,45 +265,41 @@
             // 
             this.roundsCount.AutoSize = true;
             this.roundsCount.BackColor = System.Drawing.Color.Transparent;
-            this.roundsCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.roundsCount.Font = new System.Drawing.Font("Microsoft PhagsPa", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.roundsCount.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.roundsCount.Location = new System.Drawing.Point(437, 83);
+            this.roundsCount.Location = new System.Drawing.Point(421, 105);
             this.roundsCount.Name = "roundsCount";
-            this.roundsCount.Size = new System.Drawing.Size(32, 36);
+            this.roundsCount.Size = new System.Drawing.Size(24, 28);
             this.roundsCount.TabIndex = 8;
             this.roundsCount.Text = "0";
             // 
-            // AboutLink
-            // 
-            this.AboutLink.ActiveLinkColor = System.Drawing.Color.Cyan;
-            this.AboutLink.AutoSize = true;
-            this.AboutLink.BackColor = System.Drawing.Color.Transparent;
-            this.AboutLink.LinkBehavior = System.Windows.Forms.LinkBehavior.NeverUnderline;
-            this.AboutLink.LinkColor = System.Drawing.Color.Cyan;
-            this.AboutLink.Location = new System.Drawing.Point(714, 915);
-            this.AboutLink.Name = "AboutLink";
-            this.AboutLink.Size = new System.Drawing.Size(52, 20);
-            this.AboutLink.TabIndex = 9;
-            this.AboutLink.TabStop = true;
-            this.AboutLink.Text = "About";
-            this.AboutLink.VisitedLinkColor = System.Drawing.Color.DarkTurquoise;
-            this.AboutLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.showAboutDialog);
-            // 
             // GameModeButton
             // 
-            this.GameModeButton.ActiveLinkColor = System.Drawing.Color.Cyan;
-            this.GameModeButton.AutoSize = true;
             this.GameModeButton.BackColor = System.Drawing.Color.Transparent;
-            this.GameModeButton.LinkBehavior = System.Windows.Forms.LinkBehavior.NeverUnderline;
-            this.GameModeButton.LinkColor = System.Drawing.Color.Cyan;
-            this.GameModeButton.Location = new System.Drawing.Point(12, 915);
+            this.GameModeButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.GameModeButton.FlatAppearance.BorderSize = 0;
+            this.GameModeButton.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.GameModeButton.Location = new System.Drawing.Point(155, 857);
             this.GameModeButton.Name = "GameModeButton";
-            this.GameModeButton.Size = new System.Drawing.Size(97, 20);
-            this.GameModeButton.TabIndex = 10;
-            this.GameModeButton.TabStop = true;
+            this.GameModeButton.Size = new System.Drawing.Size(118, 55);
+            this.GameModeButton.TabIndex = 11;
             this.GameModeButton.Text = "Game Mode";
-            this.GameModeButton.VisitedLinkColor = System.Drawing.Color.DarkTurquoise;
-            this.GameModeButton.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.GameModeButton_LinkClicked);
+            this.GameModeButton.UseVisualStyleBackColor = false;
+            this.GameModeButton.Click += new System.EventHandler(this.GameModeButton_Clicked);
+            // 
+            // AboutLink
+            // 
+            this.AboutLink.BackColor = System.Drawing.Color.Transparent;
+            this.AboutLink.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.AboutLink.FlatAppearance.BorderSize = 0;
+            this.AboutLink.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.AboutLink.Location = new System.Drawing.Point(505, 857);
+            this.AboutLink.Name = "AboutLink";
+            this.AboutLink.Size = new System.Drawing.Size(118, 55);
+            this.AboutLink.TabIndex = 12;
+            this.AboutLink.Text = "About";
+            this.AboutLink.UseVisualStyleBackColor = false;
+            this.AboutLink.Click += new System.EventHandler(this.showAboutDialog);
             // 
             // TicTacToe
             // 
@@ -310,14 +308,13 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(778, 944);
-            this.Controls.Add(this.GameModeButton);
             this.Controls.Add(this.AboutLink);
+            this.Controls.Add(this.GameModeButton);
             this.Controls.Add(this.roundsCount);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.cpuWinCount);
             this.Controls.Add(this.userWinCount);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button9);
@@ -329,6 +326,7 @@
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.label2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
@@ -339,6 +337,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tic-Tac-Toe";
             this.Activated += new System.EventHandler(this.TicTacToe_Activated);
+            this.Shown += new System.EventHandler(this.TicTacToe_Shown);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -363,8 +362,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label roundsCount;
-        private System.Windows.Forms.LinkLabel AboutLink;
-        private System.Windows.Forms.LinkLabel GameModeButton;
+        private System.Windows.Forms.Button GameModeButton;
+        private System.Windows.Forms.Button AboutLink;
     }
 }
 

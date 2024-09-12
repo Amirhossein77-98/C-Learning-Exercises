@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using TickTackToe.Models;
 using static TickTackToe.Models.GameStats;
 
 namespace TickTackToe
