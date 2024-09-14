@@ -1,0 +1,15 @@
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\bin\Debug\net8.0\Number Guessing.exe
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\bin\Debug\net8.0\Number Guessing.deps.json
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\bin\Debug\net8.0\Number Guessing.runtimeconfig.json
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\bin\Debug\net8.0\Number Guessing.dll
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\bin\Debug\net8.0\Number Guessing.pdb
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.sourcelink.json
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.dll
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\refint\Number Guessing.dll
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.pdb
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\Number Guessing.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus - Class\Number Guessing\Number Guessing\obj\Debug\net8.0\ref\Number Guessing.dll

@@ -1,0 +1,10 @@
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.exe.config
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.exe
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number_Guessing_Game.Form1.resources
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number_Guessing_Game.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.exe
+G:\Codes\C#\MFTPlus - Class\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.pdb

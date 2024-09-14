@@ -1,0 +1,10 @@
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\bin\Debug\Personal Info Form.exe.config
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\bin\Debug\Personal Info Form.exe
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\bin\Debug\Personal Info Form.pdb
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal Info Form.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal_Info_Form.Form1.resources
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal_Info_Form.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal Info Form.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal Info Form.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal Info Form.exe
+G:\Codes\C#\MFTPlus - Class\Personal Info Form\Personal Info Form\obj\Debug\Personal Info Form.pdb

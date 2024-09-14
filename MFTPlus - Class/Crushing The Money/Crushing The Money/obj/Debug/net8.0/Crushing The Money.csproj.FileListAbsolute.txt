@@ -1,0 +1,15 @@
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\bin\Debug\net8.0\Crushing The Money.exe
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\bin\Debug\net8.0\Crushing The Money.deps.json
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\bin\Debug\net8.0\Crushing The Money.runtimeconfig.json
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\bin\Debug\net8.0\Crushing The Money.dll
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\bin\Debug\net8.0\Crushing The Money.pdb
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.AssemblyInfoInputs.cache
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.AssemblyInfo.cs
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.sourcelink.json
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.dll
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\refint\Crushing The Money.dll
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.pdb
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\Crushing The Money.genruntimeconfig.cache
+G:\Codes\C#\MFTPlus - Class\Crushing The Money\Crushing The Money\obj\Debug\net8.0\ref\Crushing The Money.dll
