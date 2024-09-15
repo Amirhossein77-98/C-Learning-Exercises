@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Codes\\C#\\MFTPlus - Class\\Number Guessing\\Number Guessing\\Number Guessing.csproj": {}
+    "G:\\Codes\\C#\\MFTPlus - Projects\\Number Guessing\\Number Guessing\\Number Guessing.csproj": {}
   },
   "projects": {
-    "G:\\Codes\\C#\\MFTPlus - Class\\Number Guessing\\Number Guessing\\Number Guessing.csproj": {
+    "G:\\Codes\\C#\\MFTPlus - Projects\\Number Guessing\\Number Guessing\\Number Guessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\C#\\MFTPlus - Class\\Number Guessing\\Number Guessing\\Number Guessing.csproj",
+        "projectUniqueName": "G:\\Codes\\C#\\MFTPlus - Projects\\Number Guessing\\Number Guessing\\Number Guessing.csproj",
         "projectName": "Number Guessing",
-        "projectPath": "G:\\Codes\\C#\\MFTPlus - Class\\Number Guessing\\Number Guessing\\Number Guessing.csproj",
+        "projectPath": "G:\\Codes\\C#\\MFTPlus - Projects\\Number Guessing\\Number Guessing\\Number Guessing.csproj",
         "packagesPath": "C:\\Users\\Amirh\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\C#\\MFTPlus - Class\\Number Guessing\\Number Guessing\\obj\\",
+        "outputPath": "G:\\Codes\\C#\\MFTPlus - Projects\\Number Guessing\\Number Guessing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

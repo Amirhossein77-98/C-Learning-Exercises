@@ -27,47 +27,28 @@ namespace CrushingTheMoney
             int money = Convert.ToInt32(Console.ReadLine());
             Console.ResetColor();
 
-            // Looping the counter until the money is 0
-            while (money > 0)
+
+            foreach (var item in moneyCounts)
             {
-                // Each if / else if condition checks if the remaining money is greater than each denomination
-                // If it is greater than a denomination, it will be divided by it. The result would be the count of that denomination
-                // The remainder of the division would be the remaining money
-                // If it is not divisible it goes to the next condition
-                if (money >= 100)
+                Crusher(money, new Dictionary<string, int> { { item.Key, item.Value } });
+                // Setting the default color of the console text to yellow
+                Console.ForegroundColor = ConsoleColor.Yellow;
+
+                // Printing each denomination colorfully and iteratively
+                foreach (var crush in moneyCounts)
                 {
-                    moneyCounts["$100"] += money / 100;
-                    money %= 100;
+                    PrintWithColor(crush.Value, crush.Key);
                 }
-                else if (money >= 50)
+
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("-------------------------");
+
+                // Resetting the console text color
+                Console.ResetColor();
+
+                foreach (var member in moneyCounts)
                 {
-                    moneyCounts["$50"] += money / 50;
-                    money %= 50;
-                }
-                else if (money >= 20)
-                {
-                    moneyCounts["$20"] += money / 20;
-                    money %= 20;
-                }
-                else if (money >= 10)
-                {
-                    moneyCounts["$10"] += money / 10;
-                    money %= 10;
-                }
-                else if (money >= 5)
-                {
-                    moneyCounts["$5"] += money / 5;
-                    money %= 5;
-                }
-                else if (money >= 2)
-                {
-                    moneyCounts["$2"] += money / 2;
-                    money %= 2;
-                }
-                else
-                {
-                    moneyCounts["$1"] += money;
-                    money = 0;
+                    moneyCounts[member.Key] = 0;
                 }
             }
 
@@ -76,18 +57,127 @@ namespace CrushingTheMoney
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Your money can be crushed into: ");
 
-            // Setting the default color of the console text to yellow
-            Console.ForegroundColor = ConsoleColor.Yellow;
 
-            // Printing each denomination colorfully and iteratively
-            foreach (var crush in moneyCounts)
+        }
+
+        private static void Crusher(int money, Dictionary<string, int> Combination)
+        {
+            foreach (var item in Combination)
             {
-                PrintWithColor(crush.Value, crush.Key);
+                if (item.Key == "$100" && money > 100)
+                {
+                    moneyCounts["$100"] += money / 100;
+                    money %= 100;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
+                if (item.Key == "$50" && money > 50)
+                {
+                    moneyCounts["$50"] += money / 50;
+                    money %= 50;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
+                if (item.Key == "$20" && money > 20)
+                {
+                    moneyCounts["$20"] += money / 20;
+                    money %= 20;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
+                if (item.Key == "$10" && money > 10)
+                {
+                    moneyCounts["$10"] += money / 10;
+                    money %= 10;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
+                if (item.Key == "$5" && money > 5)
+                {
+                    moneyCounts["$5"] += money / 5;
+                    money %= 5;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
+                if (item.Key == "$2" && money > 2)
+                {
+                    moneyCounts["$2"] += money / 2;
+                    money %= 2;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
+                if (item.Key == "$1" && money > 1)
+                {
+                    moneyCounts["$1"] += money / 1;
+                    money %= 1;
+
+                    if (money != 0)
+                    {
+                        OtherCrushes(money);
+                    }
+                }
             }
+        }
 
-            // Resetting the console text color
-            Console.ResetColor();
-
+        private static void OtherCrushes(int money)
+        {
+            // Each if / else if condition checks if the remaining money is greater than each denomination
+            // If it is greater than a denomination, it will be divided by it. The result would be the count of that denomination
+            // The remainder of the division would be the remaining money
+            // If it is not divisible it goes to the next condition
+            if (money >= 100)
+            {
+                moneyCounts["$100"] += money / 100;
+                money %= 100;
+            }
+            else if (money >= 50)
+            {
+                moneyCounts["$50"] += money / 50;
+                money %= 50;
+            }
+            else if (money >= 20)
+            {
+                moneyCounts["$20"] += money / 20;
+                money %= 20;
+            }
+            else if (money >= 10)
+            {
+                moneyCounts["$10"] += money / 10;
+                money %= 10;
+            }
+            else if (money >= 5)
+            {
+                moneyCounts["$5"] += money / 5;
+                money %= 5;
+            }
+            else if (money >= 2)
+            {
+                moneyCounts["$2"] += money / 2;
+                money %= 2;
+            }
+            else
+            {
+                moneyCounts["$1"] += money;
+                money = 0;
+            }
         }
 
         // Function: prints each denomination and its count. If it is not zero, it will be printed in green color, else, yellow

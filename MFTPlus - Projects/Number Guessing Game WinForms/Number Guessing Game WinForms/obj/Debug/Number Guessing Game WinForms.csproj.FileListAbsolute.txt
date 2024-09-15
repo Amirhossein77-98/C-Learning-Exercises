@@ -1,0 +1,10 @@
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\bin\Debug\Number Guessing Game WinForms.exe.config
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\bin\Debug\Number Guessing Game WinForms.exe
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\bin\Debug\Number Guessing Game WinForms.pdb
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number Guessing Game WinForms.csproj.AssemblyReference.cache
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number_Guessing_Game_WinForms.MainWindow.resources
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number_Guessing_Game_WinForms.Properties.Resources.resources
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number Guessing Game WinForms.csproj.GenerateResource.cache
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number Guessing Game WinForms.csproj.CoreCompileInputs.cache
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number Guessing Game WinForms.exe
+G:\Codes\C#\MFTPlus - Projects\Number Guessing Game WinForms\Number Guessing Game WinForms\obj\Debug\Number Guessing Game WinForms.pdb

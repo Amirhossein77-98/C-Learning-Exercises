@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Codes\\C#\\MFTPlus - Class\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj": {}
+    "G:\\Codes\\C#\\MFTPlus - Projects\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj": {}
   },
   "projects": {
-    "G:\\Codes\\C#\\MFTPlus - Class\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj": {
+    "G:\\Codes\\C#\\MFTPlus - Projects\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\C#\\MFTPlus - Class\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj",
+        "projectUniqueName": "G:\\Codes\\C#\\MFTPlus - Projects\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj",
         "projectName": "Crushing The Money",
-        "projectPath": "G:\\Codes\\C#\\MFTPlus - Class\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj",
+        "projectPath": "G:\\Codes\\C#\\MFTPlus - Projects\\Crushing The Money\\Crushing The Money\\Crushing The Money.csproj",
         "packagesPath": "C:\\Users\\Amirh\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\C#\\MFTPlus - Class\\Crushing The Money\\Crushing The Money\\obj\\",
+        "outputPath": "G:\\Codes\\C#\\MFTPlus - Projects\\Crushing The Money\\Crushing The Money\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
